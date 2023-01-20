@@ -1,0 +1,21 @@
+# Portabilidade
+
+A característica portabilidade se refere à capacidade de um sistema de ser
+executado em diferentes ambientes, plataformas ou sistemas operacionais sem
+necessidade de grandes mudanças no código. Isso pode ser alcançado através de
+estruturas de código abstraídas das dependências específicas do sistema, baixo
+acoplamento entre as partes do código e uma arquitetura bem projetada. Isso
+permite que o sistema seja utilizado em diferentes contextos e evita a
+necessidade de grandes mudanças no código existente.
+
+A característica portabilidade tem uma relação direta com alguns maus-cheiros
+de código, como "Código duplicado" e "Classe com muitas responsabilidades". A
+portabilidade é importante para evitar esses maus-cheiros, pois eles podem
+tornar o código difícil de entender e manter.
+
+Uma operação de refatoração que pode ser usada para aumentar a portabilidade é
+a "extração de classe", que consiste em dividir uma classe grande e complexa em
+mais de uma classe menor e mais simples, cada uma com uma responsabilidade
+específica. Isso pode tornar o código mais fácil de entender e manter, além de
+aumentar a reutilização de código e permitir a adaptação do sistema a
+diferentes ambientes, plataformas ou sistemas operacionais.

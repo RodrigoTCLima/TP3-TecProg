@@ -1,0 +1,19 @@
+# Modularidade (baixo acoplamento e alta coesão)
+
+A característica modularidade se refere à organização do código em módulos ou
+componentes independentes, cada um com uma responsabilidade específica. Isso
+permite um baixo acoplamento entre os módulos, ou seja, uma dependência mínima
+entre eles, e alta coesão, ou seja, cada módulo tem uma funcionalidade clara e
+bem definida. Isso pode facilitar a manutenção e evolução do código, além de
+permitir a reutilização de módulos em outros projetos.
+
+A característica modularidade tem uma relação direta com alguns maus-cheiros de
+código, como "Classe gigante" e "Função que faz muito". A modularidade é
+importante para evitar esses maus-cheiros, pois eles podem tornar o código
+difícil de entender e manter.
+
+Uma operação de refatoração que pode ser usada para aumentar a modularidade é a
+"extração de classe" ou "extração de módulo", que consiste em dividir uma
+classe ou módulo grande e complexo em mais de um módulo menor e mais simples,
+cada um com uma responsabilidade específica. Isso pode tornar o código mais
+fácil de entender e manter, além de aumentar a reutilização de código.

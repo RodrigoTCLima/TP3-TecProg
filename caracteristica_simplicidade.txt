@@ -1,0 +1,18 @@
+# Simplicidade
+
+A característica simplicidade se refere à facilidade de entendimento e
+manutenção de um código. Isso pode ser alcançado através de estruturas de
+código claras e coesas, baixo acoplamento entre as partes do código e uma baixa
+complexidade geral. Isso pode levar a menos erros e dificuldades na hora de
+adicionar ou mudar funcionalidades no código.
+
+A característica simplicidade tem uma relação direta com alguns maus-cheiros de
+código, como "Função longa e complexa" e "Classe complexa". A simplicidade é
+importante para evitar esses maus-cheiros, pois eles podem tornar o código
+difícil de entender e manter.
+
+Uma operação de refatoração que pode ser usada para aumentar a simplicidade é a
+"extração de método", que consiste em dividir uma função longa e complexa em
+várias funções menores e mais simples, cada uma com uma única responsabilidade.
+Isso pode tornar o código mais fácil de entender e manter, além de aumentar a
+reutilização de código.

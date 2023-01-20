@@ -1,0 +1,20 @@
+# Elegância
+
+A característica elegância se refere à qualidade do código que o torna fácil de
+entender, fácil de manter e bem estruturado. Isso pode ser alcançado através de
+estruturas de código claras e coesas, boa organização do código, boa utilização
+de padrões de projeto e boa utilização das funcionalidades da linguagem de
+programação. Isso pode levar a menos erros e dificuldades na hora de adicionar
+ou mudar funcionalidades no código.
+
+A característica elegância tem uma relação direta com alguns maus-cheiros de
+código, como "Função longa e complexa" e "Classe complexa". A elegância é
+importante para evitar esses maus-cheiros, pois eles podem tornar o código
+difícil de entender e manter.
+
+Uma operação de refatoração que pode ser usada para aumentar a elegância é a
+"extração de classe" ou "extração de método", que consiste em dividir uma
+função ou classe longa e complexa em várias funções ou classes menores e mais
+simples, cada uma com uma única responsabilidade. Isso pode tornar o código
+mais fácil de entender e manter, além de aumentar a reutilização de código e
+boa utilização das funcionalidades da linguagem de programação.
